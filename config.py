@@ -6,13 +6,13 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = 
-API_HASH = ""
-BOT_TOKEN = ""
-MONGO_DB_URI = ""
+API_ID = 21484575
+API_HASH = "db6286a041a873eb6c571df07ef4244e"
+BOT_TOKEN = "7327221868:AAH5oJeZ9K054Vy8FvZ_STgTJFsghNv6ELo"
+MONGO_DB_URI = "mongodb+srv://DanishDBINN:DanishDBINN@cluster0.7nghleg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
-LOG_GROUP_ID = 
-OWNER_ID = 
+LOG_GROUP_ID = -1001861619812
+OWNER_ID = 6736679432
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -29,8 +29,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/learning_bots")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/learning_bots")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -52,7 +52,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = ""
+STRING1 = "BQFH1B8Ab2w9dHjMt0iViG-0WiMvmQB1QXHRZlKF_f62qmW-4OHXYeoOxz7re10UJJl5hJ-faWm83PlrOcB-Iko5oz4QX6G2gjffmsOxtxM6_yoQH2d6lO9Dg2KXW2gsliucJTIyWu9ulAk3RNduyzZMdASlIF8NmGhzBDWTjG1QmnQUnte_-xsy2LXzz-PtQwiw9o9rBjOCEjAscq6qZjMiwVBwuP5Ze8CH7qolsROw-HlZbqdAEuCIaCiNi8s6ny6vyBrE-ojS-j4NluG8Ba9NWUD45onns1K4Ppjw36JsawDeqNR51ATafDvVy3Q0Je5WcmE02Mv341WkdRd2vKAzWGDkbwAAAAGRiZIIAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -68,10 +68,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/7aa263a19bd1b8148411b.jpg"
+    "START_IMG_URL", "https://graph.org/file/d0e6aa5fc70d022a4f312.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/7aa263a19bd1b8148411b.jpg"
+    "PING_IMG_URL", "https://graph.org/file/d0e6aa5fc70d022a4f312.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/7aa263a19bd1b8148411b.jpg"
 STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
