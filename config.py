@@ -6,9 +6,9 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = 
-API_HASH = 
-BOT_TOKEN = 
+API_ID = 21484575
+API_HASH = "db6286a041a873eb6c571df07ef4244e"
+BOT_TOKEN = "7461425017:AAEICXGrvwGkAxqIhGMNM_zTkd1hMJlp2AM"
 MONGO_DB_URI = 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOG_GROUP_ID = 
