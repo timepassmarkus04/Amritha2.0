@@ -1,12 +1,6 @@
-<h1 align="center">🎵 Alice Music Bot 🎵</h1>
-
-<p align="center">
-  <img src="https://graph.org/file/f586172fe40a0b5d0b0df.jpg" alt="Alice Music Logo" width="600" height="350">
-</p>
-
-<p align="center">
-<h2 align="center">Delivering Superior Music Experience to Telegram</h2>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img  style="align-item" :"center" src="https://graph.org/file/8c6220d284080c5700098.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=720&lines=💌+˹+˹+ʟᴇᴀʀɴɪɴɢ+ʙᴏᴛꜱ+˼+˼+💌"></b></h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
 ### 🌟 Features
@@ -41,7 +35,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/rishabhops/alice && cd alice
+   git clone https://github.com/rishabhops/alicev6 && cd alicev6
    ```
 6. **Install Requirements**
    ```bash
@@ -77,7 +71,7 @@
 
 ### 🛠 Commands & Usage
 
-The Alice Music Bot offers a range of commands to enhance your music listening experience on Telegram:
+The Learning Bots offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -90,22 +84,22 @@ The Alice Music Bot offers a range of commands to enhance your music listening e
 
 For a full list of commands, use `/help` in [telegram](https://t.me/thanos_pro).
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to alice Music Bot:
+Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/thanosprosss">
+  <a href="https://telegram.me/Learningbots79">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/thanos_pro">
+  <a href="https://telegram.me/Learning_bots">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ### 🤝 Contributing
 
@@ -131,4 +125,3 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 Special thanks to all the contributors, supporters, and users of the alice Music Bot. Your feedback and support keep us going!
 - [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
-
