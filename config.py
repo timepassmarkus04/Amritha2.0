@@ -11,7 +11,7 @@ API_HASH = "db6286a041a873eb6c571df07ef4244e"
 BOT_TOKEN = "7385210085:AAGWZ3n2Vvs2VTjtwguEl-r6wQ25gjMBZ8I"
 MONGO_DB_URI = "mongodb+srv://DanishDBINN:DanishDBINN@cluster0.1ayw4i7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
-LOG_GROUP_ID = -1002179018975
+LOG_GROUP_ID = -1001861619812
 OWNER_ID = 6736679432
 
 ## Fill these variables if you're deploying on heroku.
