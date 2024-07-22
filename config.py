@@ -7,9 +7,9 @@ from pyrogram import filters
 load_dotenv()
 
 API_ID = 21484575
-API_HASH = "db6286a041a873eb6c571df07ef4244e"
-BOT_TOKEN = "7461425017:AAEICXGrvwGkAxqIhGMNM_zTkd1hMJlp2AM"
-MONGO_DB_URI = 
+API_HASH = ""
+BOT_TOKEN = ""
+MONGO_DB_URI = ""
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOG_GROUP_ID = 
 OWNER_ID = 
@@ -52,7 +52,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = 
+STRING1 = ""
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
