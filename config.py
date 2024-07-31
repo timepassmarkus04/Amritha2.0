@@ -6,13 +6,13 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = 
-API_HASH = ""
-BOT_TOKEN = ""
-MONGO_DB_URI = ""
+API_ID = 29350132
+API_HASH = "e854995be05edb5bf21f5b84bdc0212f"
+BOT_TOKEN = "7198507405:AAGHOQMo5pGln96YSdmtgCuX9fjnYhdXnRc"
+MONGO_DB_URI = "mongodb+srv://devilkingp0404:devilkingp0404@cluster0.r3ezrkz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
-LOG_GROUP_ID = 
-OWNER_ID = 
+LOG_GROUP_ID = -1002222142844
+OWNER_ID = 7464102358
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -22,15 +22,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Learningbots79/Learning_Bots",
+    "https://github.com/timepassmarkus04/Kevin11",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MNS_botss")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/MNS_botss")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -52,7 +52,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = ""
+STRING1 = "BQG_2PQAEUSG1TegoZ7tIcWE-ryRMSLo6_UszopM3-kWqoSU738llWKeN3aUpDSdmaC_-i7hu_3GoFhl5rSqBzml9v3bjm_IpeB1CTxRndZ-7uBdRkBepVuOjOpu8OXHWfMBfUdvZeDfN21JpMA88vVonHh-aBeamAllN-unnpxW5PKbYZeGidQz254KV22FHLkyPyOtPu8EBykTFLZet_XHH7CUsVXKVTY6P7SQjyeLES8Cx9Dur4GjNhDNBzG5vOf6tqjinI-4Ix6_a6aT-w5ycWffvYkOou0M8LdtOYOCX4t4Aq99ZaZgqjQbmn1ygM4y3IL5Vd4uRQgDAtCoQiDSC_LQvQAAAAG85SnWAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -68,10 +68,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/d0e6aa5fc70d022a4f312.jpg"
+    "START_IMG_URL", "https://graph.org/file/c3847da256457f7cb057d.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/d0e6aa5fc70d022a4f312.jpg"
+    "PING_IMG_URL", "https://graph.org/file/c3847da256457f7cb057d.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/7aa263a19bd1b8148411b.jpg"
 STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
