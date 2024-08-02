@@ -8,7 +8,7 @@ load_dotenv()
 
 API_ID = 29350132
 API_HASH = "e854995be05edb5bf21f5b84bdc0212f"
-BOT_TOKEN = "7324085779:AAFPYZHZLk1AdceRdYyUF3KTRTi9Er5Bj2w"
+BOT_TOKEN = "7324085779:AAFNlFtGJl9JzYgFHX7V7Kg7mufYKzigi7U"
 MONGO_DB_URI = "mongodb+srv://devilkingp0404:devilkingp0404@cluster0.iw04afs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 16000))
 LOG_GROUP_ID = -1002222142844
